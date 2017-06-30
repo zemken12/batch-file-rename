@@ -1,0 +1,6 @@
+def type():
+  print "How do you need to append all the files in the folder?"
+  Print "Insert in Front"
+  Print "Insert on End"
+  answer = raw_input("Type "Front" or End"")
+  if answer == "Front" or "front" 
